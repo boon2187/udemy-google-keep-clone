@@ -1,0 +1,27 @@
+{
+  "format_on_save": "on",
+  "formatter": "prettier",
+  "code_actions_on_format": {
+    "source.fixAll.eslint": true
+  },
+  "languages": {
+    "TypeScript": {
+      "formatter": "prettier"
+    },
+    "TSX": {
+      "formatter": "prettier"
+    },
+    "JavaScript": {
+      "formatter": "prettier"
+    },
+    "JSON": {
+      "formatter": "prettier"
+    },
+    "CSS": {
+      "formatter": "prettier"
+    },
+    "HTML": {
+      "formatter": "prettier"
+    }
+  }
+}
